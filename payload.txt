@@ -7,7 +7,6 @@ REM # You can even ofuscate the powershell with Invoke-Obfuscation and pyfuscati
 REM # undetectable.                                                                                             #
 REM # Author: Hug1n                                                                                             #
 REM ############################################################################################################# 
-
 REM @@ Opening the CMD
 GUI r 
 DELAY 500
